@@ -9,7 +9,8 @@ Com habilidades em resolução de problemas, pensamento crítico, trabalho em eq
 
 ---
 
-Hello! My name is Valéria and I am currently in a career transition phase to the Software Engineering field. I seek to acquire more knowledge in programming and data every day, and I am looking for an internship to gain practical experience in the field.
+#### Hello! 👋
+My name is Valéria and I am currently in a career transition phase to the Software Engineering field. I seek to acquire more knowledge in programming and data every day, and I am looking for an internship to gain practical experience in the field.
 
 I have knowledge in __Python__, __Git__ e __GitHub__, which allows me to develop applications and collaborate on team projects. I am enthusiastic about everything I do, learn quickly, and am eager to contribute to significant projects.
 
